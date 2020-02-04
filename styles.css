@@ -1,0 +1,37 @@
+.next {
+    display: none;
+}
+
+.info {
+    display: none;
+}
+
+.recycle {
+    display: none;
+}
+
+.info2 {
+    display: none;
+}
+
+.dates {
+    display: none;
+}
+
+.phones {
+    display: none;
+}
+
+h3 {
+    color: lightblue;
+}
+
+#thanks {
+    color: lime;
+    display: none;
+
+}
+
+body {
+    background-color: blue;
+}
