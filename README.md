@@ -1,1 +1,0 @@
-# Volunteer-to-clean-up-garbage
